@@ -1,0 +1,10 @@
+Cells are the basic units of life. All living organisms are composed of one or more cells. 
+Mitochondria are often referred to as the powerhouse of the cell because they generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy. 
+Mitochondria have their own DNA and are believed to have evolved from ancient bacteria through endosymbiosis.
+Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. 
+In plants, photosynthesis takes place in chloroplasts, primarily in the leaves. The process converts carbon dioxide and water into glucose and oxygen using light energy.
+Cell division is essential for growth, repair, and reproduction. Mitosis produces two identical daughter cells, while meiosis produces four genetically different gametes.
+The cell membrane controls the movement of substances in and out of the cell. It is selectively permeable, allowing some molecules to pass while blocking others.
+Ribosomes are responsible for protein synthesis. They can be found free in the cytoplasm or attached to the rough endoplasmic reticulum.
+The nucleus contains the cell's genetic material, DNA, which directs all cellular activities and is passed from one generation to the next.
+Enzymes are biological catalysts that speed up chemical reactions without being consumed in the process. Each enzyme is specific to a particular substrate.
